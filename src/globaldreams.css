@@ -1,0 +1,19 @@
+body {
+	text-align:center;background:#444;color:#fff;font-family:Raleway;
+}
+a {
+	text-decoration:none;color:#00ccff;
+}
+a:hover {
+	color:#99ebff;
+}
+#info {
+	max-width:600px;
+	max-height:260px;
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+}

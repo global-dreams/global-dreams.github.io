@@ -1,7 +1,7 @@
 Global Dreams
 =======
 
-[Site bio here]
+Global Dreams... Connecting ❤s
 
 LICENSE
 =======
