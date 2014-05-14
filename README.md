@@ -1,7 +1,7 @@
 Global Dreams
 =======
 
-Global Dreams... Connecting ❤s
+Global Dreams, Connecting Hearts
 
 LICENSE
 =======

@@ -3,5 +3,5 @@
 ## After the name of the musing, put a 'space' then the date in dd/mm/yyyy format.
 ## Lines beginning with # will be ignored.
 Syntax 00/00/0000
-#MexicoAndGuatemala 01/01/1997
-#ThePathOfHealing 02/01/1997
+MexicoAndGuatemala 01/01/1997
+ThePathOfHealing 02/01/1997

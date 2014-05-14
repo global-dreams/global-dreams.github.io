@@ -46,6 +46,9 @@ function loadContent(textContentFile) {
 					HTMLContent += "<h1>"+arguments+"</h1>\n";
 				}
 			}
+			else if(textContent[i].length == 1) {
+				HTMLContent += "<br />";
+			}
 			else {
 				HTMLContent += "<p>"+textContent[i]+"</p>\n";
 			}

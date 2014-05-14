@@ -1,5 +1,4 @@
 `title`Syntax For Musings
-
 Paragraphs should just be written as per normal. The code will interpret them automatically.
 
 Images are not yet implemented.
