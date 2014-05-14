@@ -39,7 +39,6 @@ function loadContent(textContentFile) {
 	$.get(textContentFile,function(textContent) {
 		textContent = textContent.split("\n");
 		for(i=0;i<textContent.length;i++) {
-			console.log(textContent[i].length);
 			if(textContent[i].substr(0,1) == "`") {
 				var command = textContent[i].substr(1,textContent[i].substr(1).search("`"));
 				var arguments = textContent[i].substr(textContent[i].substr(1).search("`")+2);
