@@ -11,7 +11,7 @@ var lastURL;
 
 // Functions
 function findMusings() {
-	$.get("musings/AllMusings.txt",function(data) {
+	$.get("musings/Musings-Index.txt",function(data) {
 		var perLine = data.split("\n");
 		// Remove comment lines
 		for(i=0;i<perLine.length;i++) {
@@ -34,6 +34,26 @@ function createNav() {
 		$("#navbar").append("<li><a class='internal' href='#"+names[i]+"'>"+names[i]+"</a></li>");
 	}
 }
+function loadContent(textContentFile) {
+	var HTMLContent = "";
+	$.get(textContentFile,function(textContent) {
+		textContent = textContent.split("\n");
+		for(i=0;i<textContent.length;i++) {
+			if(textContent[i].substr(0,1) == "`") {
+				var command = textContent[i].substr(1,textContent[i].substr(1).search("`"));
+				var arguments = textContent[i].substr(textContent[i].substr(1).search("`")+2);
+				if(command == "title") {
+					HTMLContent += "<h1>"+arguments+"</h1>\n";
+				}
+			}
+			else {
+				HTMLContent += "<p>"+textContent[i]+"</p>\n";
+			}
+		}
+		document.getElementById("content").innerHTML = HTMLContent;
+		armLinks();
+	});
+}
 
 // This function sets the URL bar's hash value, then pastes the content associated with that hash value into the page.
 function redirectPage(hash) {
@@ -50,9 +70,7 @@ function redirectPage(hash) {
 		});
 	}
 	else {
-		$("#content").load("musings/"+hash.substr(1)+".txt",function(){
-			armLinks();
-		});
+		loadContent("musings/"+hash.substr(1)+".txt")
 	}
 }
 // This function will check whether the URL hash value has changed since it was last run, then call the redirectPage function if it has. Calling this function with a hash value will check whether that hash value is different to the current URL has value, then call the redirectPage function if it is.

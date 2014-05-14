@@ -4,15 +4,86 @@ Copyright (C) 2014, Nikki Woodward
 
 All rights reserved until further notice.
 */
+/* Base Elements */
+html {
+	width:100%;
+	margin:0;
+	padding:0;
+	border:0;
+	background:#fff;
+	text-align:center;
+	outline:none;
+}
 body {
-	text-align:center;background:#444;color:#fff;font-family:Raleway;
+	width:100%;
+	margin:0;
+	padding:0;
+	border:0;
+	background:#fff;
+	color:#f480ff;
+	font:1em "Overlock",cursive;
+	font-weight:400;
+	text-align:center;
+	outline:none;
+}
+h1 {
+	font:2.4em "Overlock",cursive;
+	font-weight:600;
+	margin:0.67em 0 0.67em 0;
+}
+h2 {
+	font:1.6em "Overlock",cursive;
+	font-weight:600;
+	margin:1em 0 1em 0;
+}
+h3 {
+	font:1.1em "Overlock",cursive;
+	font-weight:600;
+	margin:1em 0 1em 0;
 }
 a {
-	text-decoration:none;color:#00ccff;
+	text-decoration:none;
+	outline:none;
+	color:#00ccff;
 }
 a:hover {
 	color:#99ebff;
 }
+a:focus {
+	color:#c252cc;
+}
+
+/* Page Skeleton */
+#header {
+	width:100%;
+	background:#F480FF;
+	color:#fff;
+}
+#header h1 {
+	margin:0;
+}
+#header h3 {
+	margin:0;
+}
+#navbar {
+	width:100%;
+	background:#f9b2ff;
+}
+#navbar a {
+	color:#fff;
+}
+#navbar a:hover {
+	color:#000;
+}
+#navbar a:focus {
+	color:#444;
+}
+#navbar li {
+	display:inline-block;
+	margin:0 1em;
+}
+
+/* Loaded Page Elements */
 #info {
 	max-width:600px;
 	max-height:260px;
