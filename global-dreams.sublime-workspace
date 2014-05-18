@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"style",
+				"font-style"
+			],
+			[
+				"create",
+				"createMultiple"
+			],
+			[
+				"pla",
+				"playerLives"
+			],
+			[
+				"T",
+				"TYPE_BOX"
+			],
+			[
+				"sfxSp",
+				"sfxSpawnGoodThing"
+			],
+			[
+				"spawnBad",
+				"sfxSpawnBadThing"
+			],
+			[
+				"Souz_LP_C",
+				"Souz_LP_CatchBadThing"
+			],
+			[
+				"vum",
+				"musicVolume"
+			],
+			[
+				"bucket",
+				"bucket-spritesheet"
+			],
+			[
+				"title-",
+				"title-character"
+			],
+			[
+				"start",
+				"start-button"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2890,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/home.html",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/globaldreams.js",
+			"settings":
+			{
+				"buffer_size": 3859,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/globaldreams.css",
+			"settings":
+			{
+				"buffer_size": 1230,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css-reset.css",
+			"settings":
+			{
+				"buffer_size": 1008,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/README.md",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/modules/lpModules.stats.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/modules/lpModules.character.js",
+		"/C/Users/Sherlock/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Sherlock/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/Leaky Pipes.sublime-project",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/Leaky Pipes.sublime-workspace",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/index.html",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/leakypipes.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/modules/lpModules.drops.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/modules/lpModules.menu.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/modules/lpModules.hud.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/modules/lpModules.level.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/lpStates.game.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/lpStates.menu.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/lpStates.preload.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/lpStates.boot.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakypipes_state_boot.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakypipes_state_boot.txt",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakypipes_state_preload.txt",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakypipes_state_preload.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakyPipesBoot.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakyPipesPreload.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakypipes_state_game.txt",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakyPipesGame.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakypipes_state_menu.txt",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/states/leakyPipesMenu.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/leakyPipesGlobals.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/leakyPipesBoot.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/leakyPipesGame.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/leakyPipesMenu.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/leakyPipesPreload.js",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/index.html",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/content.html",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/lib/phaser.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Cows Strike Back/coding/build/app.js",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Cows Strike Back/coding/build/app.css",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/src/leakyPipesPreload (1).js",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/src/css/subsana-elements.css",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/index.html",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/lib/jquery.js",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/src/css/subsana-media-queries.css",
+		"/F/Chemistry/New Text Document.txt",
+		"/C/Users/Sherlock/Desktop/BIOS_Acer_1.24_A_A/BIOS_Acer_1.24_Windows/DOS/KBC/ReadMe.txt",
+		"/C/Users/Sherlock/Desktop/BIOS_Acer_1.24_A_A/BIOS_Acer_1.24_Windows/readme.txt",
+		"/C/Users/Sherlock/AppData/Local/Temp/Temp1_BIOS_Acer_1.24_A_A.zip/BIOS_Acer_1.24_Windows/DOS/KBC/ReadMe.txt",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/CNAME",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/lib/fastclick.js",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/src/js/subsanaFunctions.js",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/src/globaldreams.js",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/Musings-Index.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/Syntax.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/ThePathofHealing.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/MexicoAndGuatemala.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/README.md",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/pages/home.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/src/globaldreams.css",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/src/css-reset.css",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/TestMusing.txt",
+		"/C/Users/Sherlock/Google Drive/MCSHS/English/Sources.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/AllMusings.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/pages/Home.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/Home.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/new.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/musings-index.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/musings.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/Mexico & Guatemala.txt",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/src/js/subsanaTriggers.js",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/src/js/subsanaVariables.js",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/The Path of Healing.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/New Text Document (2).txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/Blog Post 1.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/musings/Blog 2.txt",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/lib/fastclick-min.js",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/src/css/subsana-reset.css",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/githooks/updatewebserver.txt",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/version.php",
+		"/C/Users/Sherlock/AppData/Local/Temp/Temp1_anchor-cms-0.9.2.zip/anchor-cms-0.9.2/install/readme.md",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_includes/footer.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_includes/head.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_includes/header.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_layouts/default.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_layouts/page.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_layouts/post.html",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_config.yml",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/about.md",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_posts/2014-05-12-test-post.markdown",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/blog/myblog/_posts/2014-05-11-welcome-to-jekyll.markdown",
+		"/C/devkit/config.yml",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/src/css/subsana-animations.css",
+		"/C/Users/Sherlock/Google Drive/Sherlock/SubSana Creations/SubSana/Backup/SubSana v1/js/SubSana.js",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/Musings/New Text Document.txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/Musings/New Text Document (2).txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/Musings/New Text Document (3).txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/Musings/New Text Document (4).txt",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/CNAME",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/.gitattributes",
+		"/C/Users/Sherlock/Documents/GitHub/global-dreams.github.io/.gitignore",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/rawr.html",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/src/css/subsana-colors.css",
+		"/C/Users/Sherlock/Documents/GitHub/SherlockSolastice.github.io/design/site-colors.txt",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/src/js/subsanaVariables.js",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/src/js/subsanaFunctions.js",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/src/js/subsanaTriggers.js",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/src/css/subsana-media-queries.css",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/index.html",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/src/css/subsana-elements.css",
+		"/C/Users/Sherlock/Google Drive/Sherlock/SubSana Creations/SubSana/Backup/SubSana v1/php/contact_form.php",
+		"/C/Users/Sherlock/Google Drive/Sherlock/SubSana Creations/SubSana/Backup/SubSana v1/php/load_page.php",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/README.md",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/index - Copy.html",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/src/css/subsana-reset.css",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/src/css/subsana-animations.css",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/src/css/subsana-colors.css",
+		"/C/Users/Sherlock/Documents/GitHub/Subsana.com/index.html.bak",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/assets/img/bucket.json",
+		"/C/Users/Sherlock/Google Drive/Souzou Team/Games - WIP/Leaky Pipes/coding/Leaky Pipes.html",
+		"/C/Users/Sherlock/Google Drive/Sherlock/Documents/Text Documents/Work Hours.txt",
+		"/C/Users/Sherlock/Google Drive/MCSHS/School Planner.gsheet",
+		"/C/Users/Sherlock/Google Drive/Sherlock/SubSana Creations/Site Design References/Colours.txt",
+		"/C/Users/Sherlock/Google Drive/Buddy & Sherlock/Conventional Media/Images/Such no comment",
+		"/E/BitSync Folders/Ben Alec & Hetra/Chat v0.4 (in development)/Logs/sherlockSort.txt",
+		"/E/BitSync Folders/Ben Alec & Hetra/Chat v0.4 (in development)/Logs/hetra.txt",
+		"/E/BitSync Folders/Ben Alec & Hetra/Chat v0.4 (in development)/Logs/sherlock.txt",
+		"/E/BitSync Folders/Ben Alec & Hetra/Chat v0.4 (in development)/Logs/ooloops.txt",
+		"/E/BitSync Folders/Ben Alec & Hetra/Chat v0.3 (current)/Logs/ooloops.txt",
+		"/F/pa_gapps.txt",
+		"/C/Users/Sherlock/Downloads/Custom hboots/PB99IMG/250-5-182/md5.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"subsanaFunctions.js",
+			"subsanaFunctions",
+			"",
+			"flServer",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"word",
+			"lpGameStates",
+			"lpGame.Globals",
+			"lpGames.Globals",
+			"globals",
+			"global",
+			"?v01",
+			"<a",
+			"This",
+			"?v03",
+			"?v02",
+			"?v01",
+			"splash",
+			"?v29",
+			"state_",
+			"clear",
+			"assets",
+			"\"social-link\"",
+			"#content-column",
+			"?v28",
+			"SubSana",
+			"?v27",
+			"?v26",
+			"?v25",
+			"color",
+			"date",
+			"currentMinute",
+			"currentHour",
+			"lastHour",
+			"ddate",
+			"iid",
+			"amount",
+			"?v24",
+			"?v",
+			"playerLive",
+			"play",
+			"playerPoints",
+			"score",
+			".mp3",
+			"</span>",
+			"</div>",
+			"<p class=\"line\">",
+			"<div class=\"verse\">",
+			"</p>",
+			"debugmode",
+			"if(lpGame.",
+			"debugmode",
+			"animation",
+			"animations",
+			"drip",
+			"console",
+			"*/",
+			"/*",
+			"random",
+			"console.log",
+			"lbGame",
+			"state_MainMenu",
+			"state_mainMenuVars.",
+			"state_mainMenu",
+			"droplet",
+			"Droplet",
+			"fade-to-green",
+			"fadeToGreen",
+			"console.log",
+			"flGame",
+			"currentNum",
+			"putTile",
+			"tileBack",
+			"game.time.now",
+			"timeCheck",
+			"b",
+			"physics",
+			"luxGame",
+			"lbServer",
+			"gpl",
+			"luxGame.player",
+			"ctrl+d",
+			"ctrl+shift+d",
+			"replace",
+			"ctrl+d",
+			"control",
+			"crl-d",
+			"\");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"lpStates",
+			"?v02",
+			"?v01",
+			"?v03",
+			"?v02",
+			"?v01",
+			"\"span-social-link\"",
+			"#content #column",
+			"?v29",
+			"Subsana",
+			"?v28",
+			"?v27",
+			"?v26",
+			"SubSana.clock.currentMinute",
+			"SubSana.clock.currentHour",
+			"SubSana.clock.lastHour",
+			"countdownDate",
+			"countdownDOMID",
+			"timeLeft",
+			"?v25",
+			".ogg",
+			"",
+			"lpGame",
+			"",
+			"state_mainMenuVars",
+			"fade-to-blue",
+			"fadeToBlue",
+			"lpGame",
+			"flGame",
+			"flServer",
+			"player"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1907,
+								1907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/home.html",
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "src/globaldreams.js",
+					"settings":
+					{
+						"buffer_size": 3859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/globaldreams.css",
+					"settings":
+					{
+						"buffer_size": 1230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/css-reset.css",
+					"settings":
+					{
+						"buffer_size": 1008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
